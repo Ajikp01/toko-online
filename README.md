@@ -1,2 +1,2 @@
 # toko-online-
-latihan react hari pertama 
+Proyek e-commerce pertama untuk belajar fullstack
